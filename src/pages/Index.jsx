@@ -7,7 +7,7 @@ const Index = () => {
   // TODO: Create the website here!
   return (
     <Button>
-      Hello world! <FaPlus />
+      Hello world! ❤️ <FaPlus />
     </Button>
   ); // example
 };
